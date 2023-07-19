@@ -1,0 +1,11 @@
+--2023-07-15 19:17:30--  https://raw.githubusercontent.com/cobalt2727/L4T-Megascript/master/core_refactor2.sh
+Resolving raw.githubusercontent.com (raw.githubusercontent.com)... 185.199.108.133, 185.199.111.133, 185.199.110.133, ...
+Connecting to raw.githubusercontent.com (raw.githubusercontent.com)|185.199.108.133|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 36632 (36K) [text/plain]
+Saving to: ‘STDOUT’
+
+-                                0%[                                                   ]       0  --.-KB/s               -                              100%[==================================================>]  35.77K  --.-KB/s    in 0s      
+
+2023-07-15 19:17:31 (96.6 MB/s) - written to stdout [36632/36632]
+
